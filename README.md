@@ -3,6 +3,6 @@
 
 # To-Do
 - [x] make a PoC
-- [ ] test with an actuall premium chegg account
+- [ ] test with an actuall premium 🅲🅷🅴🅶🅶 account
 - [ ] implement a web interface using flask/Django
 - [ ] implement a simple login/register wrapper
